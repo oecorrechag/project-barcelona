@@ -20,7 +20,7 @@ Se buscaron datos de las comunas de la ciudad en wikipedia, las variables que se
 * Porcentaje de habitantes Mestizos-Blancos
 * Porcentaje de habitantes Afro
 * Porcentaje de habitantes Indígenas
-* Número  total de barrios pertenecientes a la respectiva comuna.
+* Número total de barrios pertenecientes a la respectiva comuna.
 
 # Problema
 
